@@ -1,0 +1,69 @@
+/*
+产品信息id及对应的图像信息、url地址（仅提取酒的图片）
+*/
+select 
+    pro.productinfo_id
+    ,pro.ProductName
+    ,pro.Brand
+    ,pro.BrandDictionary_Id
+    ,pro.OriginalPlace
+    ,pro.DisplayCategoryName
+
+    ,url.image_id
+    ,url.image_name
+    ,url.image_format
+    ,url.image_size
+    ,url.image_url
+
+from (
+    # 获取产品信息、图片文件id
+    select 
+        id as productinfo_id
+        ,ProductName
+        ,Brand
+        ,BrandDictionary_Id
+        ,OriginalPlace
+        ,defaultimagefile_id
+        ,DisplayCategoryName
+
+    from yjp_productsku_1.productinfo
+
+    union all
+    select 
+        id as productinfo_id
+        ,ProductName
+        ,Brand
+        ,BrandDictionary_Id
+        ,OriginalPlace
+        ,defaultimagefile_id
+        ,DisplayCategoryName
+
+    from yjp_productsku_2.productinfo
+
+    union all
+    select 
+        id as productinfo_id
+        ,ProductName
+        ,Brand
+        ,BrandDictionary_Id
+        ,OriginalPlace
+        ,defaultimagefile_id
+        ,DisplayCategoryName
+
+    from yjp_productsku_3.productinfo
+) pro
+
+left join (
+    # 图片文件url
+    select 
+        Id as image_id
+        ,FileName as image_name
+        ,FileExtName as image_format
+        ,FileSize as image_size
+        ,CloudSrc as image_url
+    from yjp_system.file 
+) url
+
+on pro.defaultimagefile_id = url.image_id 
+where pro.DisplayCategoryName like "%白酒%"
+limit 51;
