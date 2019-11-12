@@ -1,0 +1,171 @@
+2019-11-12 09:24:45,037 - E:/code-Python/picture_check_linux/bin/main_process.py[line:86] - INFO: -*- 程序运行开始 -*-
+2019-11-12 09:24:45,038 - E:/code-Python/picture_check_linux/bin/main_process.py[line:92] - INFO: ['E:/code-Python/picture_check_linux/bin/main_process.py', '../data/sql.txt']
+2019-11-12 09:24:45,038 - E:/code-Python/picture_check_linux/bin/main_process.py[line:108] - INFO: 参数初始化完成！
+2019-11-12 09:24:45,038 - E:/code-Python/picture_check_linux/bin/main_process.py[line:37] - INFO: main_process主程序运行开始！
+2019-11-12 09:24:45,768 - E:/code-Python/picture_check_linux/bin/main_process.py[line:43] - INFO: sql提取数据耗时 ：0.73s
+2019-11-12 09:24:47,199 - E:/code-Python/picture_check_linux/bin/main_process.py[line:51] - INFO: 图像下载耗时    ：1.432s
+2019-11-12 10:12:11,707 - E:/code-Python/picture_check_linux/bin/main_process.py[line:86] - INFO: -*- 程序运行开始 -*-
+2019-11-12 10:12:11,707 - E:/code-Python/picture_check_linux/bin/main_process.py[line:92] - INFO: ['E:/code-Python/picture_check_linux/bin/main_process.py', '../data/sql.txt']
+2019-11-12 10:12:11,707 - E:/code-Python/picture_check_linux/bin/main_process.py[line:108] - INFO: 参数初始化完成！
+2019-11-12 10:12:11,707 - E:/code-Python/picture_check_linux/bin/main_process.py[line:37] - INFO: main_process主程序运行开始！
+2019-11-12 10:12:15,427 - E:/code-Python/picture_check_linux/bin/main_process.py[line:43] - INFO: sql提取数据耗时 ：3.72s
+2019-11-12 10:12:16,612 - E:/code-Python/picture_check_linux/bin/main_process.py[line:51] - INFO: 图像下载耗时    ：1.185s
+2019-11-12 10:12:24,115 - E:/code-Python/picture_check_linux/bin/main_process.py[line:60] - INFO: 图像分类耗时    ：7.503s
+2019-11-12 10:12:24,124 - E:/code-Python/picture_check_linux/bin/main_process.py[line:79] - INFO: 预测结果保存耗时：0.009s
+2019-11-12 10:12:24,124 - E:/code-Python/picture_check_linux/bin/main_process.py[line:80] - INFO: 预测数据保存地址：../data/prediction_result_20191112.txt
+2019-11-12 10:12:24,124 - E:/code-Python/picture_check_linux/bin/main_process.py[line:81] - INFO: 处理总耗时      ：12.416s
+2019-11-12 11:02:24,460 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:81] - INFO: url下载完毕，图像已保存至：../data/picture
+2019-11-12 11:02:40,810 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:78] - INFO: 图像已下载5/10个
+2019-11-12 11:02:40,810 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:78] - INFO: 图像已下载10/10个
+2019-11-12 11:02:40,810 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:81] - INFO: url下载完毕，图像已保存至：../data/picture
+2019-11-12 11:03:09,905 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:78] - INFO: 图像已下载5/10个
+2019-11-12 11:03:09,905 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:78] - INFO: 图像已下载10/10个
+2019-11-12 11:03:09,906 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:81] - INFO: url下载完毕，图像已保存至：../data/picture
+2019-11-12 11:07:01,949 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:81] - INFO: 图像已下载5/10个, 下载已耗时: 0.0s
+2019-11-12 11:07:01,949 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:81] - INFO: 图像已下载10/10个, 下载已耗时: 0.0005013942718505859s
+2019-11-12 11:07:01,949 - E:/code-Python/picture_check_linux/lib/url_download_picture.py[line:85] - INFO: url下载完毕，图像已保存至：../data/picture, 下载总耗时： 0.0005013942718505859s
+2019-11-12 11:15:22,830 - E:/code-Python/picture_check_linux/bin/model_train.py[line:51] - INFO: precision: 0.927007299270073
+2019-11-12 11:15:22,830 - E:/code-Python/picture_check_linux/bin/model_train.py[line:52] - INFO: recall   : 0.8975265017667845
+2019-11-12 11:15:22,831 - E:/code-Python/picture_check_linux/bin/model_train.py[line:53] - INFO: f1_scores: 0.9120287253141831
+2019-11-12 11:15:22,831 - E:/code-Python/picture_check_linux/bin/model_train.py[line:113] - INFO: -------------------------模型训练结束---------------------------
+2019-11-12 11:15:22,862 - E:/code-Python/picture_check_linux/bin/model_train.py[line:119] - INFO: 训练的模型已保存至：../data/model/scaler_and_clf_20191112.pkl
+2019-11-12 11:30:11,400 - E:/code-Python/picture_check_linux/lib/picture_feature_extract.py[line:351] - INFO: 图像特征已提取5/10个, 已耗时: 3.2079532146453857s
+2019-11-12 11:30:14,517 - E:/code-Python/picture_check_linux/lib/picture_feature_extract.py[line:351] - INFO: 图像特征已提取10/10个, 已耗时: 6.324767112731934s
+2019-11-12 11:30:14,518 - E:/code-Python/picture_check_linux/lib/picture_feature_extract.py[line:354] - INFO: 图像特征抽取完毕！总耗时6.325768947601318s
+2019-11-12 11:38:11,114 - E:/code-Python/picture_check_linux/bin/model_train.py[line:78] - INFO: -------------------------模型训练开始---------------------------
+2019-11-12 11:38:11,401 - E:/code-Python/picture_check_linux/bin/model_train.py[line:52] - INFO: precision: 0.8996282527881041
+2019-11-12 11:38:11,402 - E:/code-Python/picture_check_linux/bin/model_train.py[line:53] - INFO: recall   : 0.8996282527881041
+2019-11-12 11:38:11,403 - E:/code-Python/picture_check_linux/bin/model_train.py[line:54] - INFO: f1_scores: 0.8996282527881041
+2019-11-12 11:38:11,403 - E:/code-Python/picture_check_linux/bin/model_train.py[line:118] - INFO: 模型训练样本数：1820 ，模型训练总耗时：0.28926873207092285s
+2019-11-12 11:38:11,403 - E:/code-Python/picture_check_linux/bin/model_train.py[line:119] - INFO: -------------------------模型训练结束---------------------------
+2019-11-12 11:38:11,435 - E:/code-Python/picture_check_linux/bin/model_train.py[line:125] - INFO: 训练的模型已保存至：../data/model/scaler_and_clf_20191112.pkl
+2019-11-12 11:50:25,964 - E:/code-Python/picture_check_linux/bin/model_prediction.py[line:109] - INFO: 开始调用model_prediction模块
+2019-11-12 11:50:33,430 - E:/code-Python/picture_check_linux/bin/model_prediction.py[line:73] - INFO: 预测的图像的特征及预测数据已追加至： ../data/feature_labeled.csv 文件
+2019-11-12 11:50:33,430 - E:/code-Python/picture_check_linux/bin/model_prediction.py[line:175] - INFO: 图像预测完毕！预测图像总数：10个，预测总耗时：7.4655702114105225s
+2019-11-12 11:52:15,069 - E:/code-Python/picture_check_linux/bin/model_prediction.py[line:109] - INFO: 开始调用model_prediction模块
+2019-11-12 11:52:22,446 - E:/code-Python/picture_check_linux/bin/model_prediction.py[line:73] - INFO: 预测的图像的特征及预测数据已追加至： ../data/feature_labeled.csv 文件
+2019-11-12 11:52:22,446 - E:/code-Python/picture_check_linux/bin/model_prediction.py[line:175] - INFO: 预测图像总数：10个，预测总耗时：7.377232313156128s
+2019-11-12 11:52:22,446 - E:/code-Python/picture_check_linux/bin/model_prediction.py[line:176] - INFO: model_prediction模块调用完毕！
+2019-11-12 11:52:43,571 - E:/code-Python/picture_check_linux/bin/main_process.py[line:86] - INFO: -*- 程序运行开始 -*-
+2019-11-12 11:52:43,571 - E:/code-Python/picture_check_linux/bin/main_process.py[line:92] - INFO: ['E:/code-Python/picture_check_linux/bin/main_process.py', '../data/sql.txt']
+2019-11-12 11:52:43,571 - E:/code-Python/picture_check_linux/bin/main_process.py[line:108] - INFO: 参数初始化完成！
+2019-11-12 11:52:43,571 - E:/code-Python/picture_check_linux/bin/main_process.py[line:37] - INFO: main_process主程序运行开始！
+2019-11-12 11:55:36,338 - E:/code-Python/picture_check_linux/bin/main_process.py[line:86] - INFO: -*- 程序运行开始 -*-
+2019-11-12 11:55:36,338 - E:/code-Python/picture_check_linux/bin/main_process.py[line:92] - INFO: ['E:/code-Python/picture_check_linux/bin/main_process.py', '../data/sql.txt']
+2019-11-12 11:55:36,338 - E:/code-Python/picture_check_linux/bin/main_process.py[line:108] - INFO: 参数初始化完成！
+2019-11-12 11:55:36,338 - E:/code-Python/picture_check_linux/bin/main_process.py[line:37] - INFO: main_process主程序运行开始！
+2019-11-12 11:55:37,071 - E:/code-Python/picture_check_linux/bin/main_process.py[line:43] - INFO: sql提取数据耗时 ：0.733s
+2019-11-12 11:55:37,075 - E:\code-Python\picture_check_linux\lib\url_download_picture.py[line:85] - INFO: url下载完毕，图像已保存至：../data/picture, 下载总耗时： 0.0005049705505371094s
+2019-11-12 11:55:37,075 - E:/code-Python/picture_check_linux/bin/main_process.py[line:51] - INFO: 图像下载耗时    ：0.004s
+2019-11-12 11:55:37,075 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:109] - INFO: 开始调用model_prediction模块
+2019-11-12 11:55:44,540 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:73] - INFO: 预测的图像的特征及预测数据已追加至： ../data/feature_labeled.csv 文件
+2019-11-12 11:55:44,540 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:175] - INFO: 预测图像总数：10个，预测总耗时：7.4647057056427s
+2019-11-12 11:55:44,540 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:176] - INFO: model_prediction模块调用完毕！
+2019-11-12 11:55:44,540 - E:/code-Python/picture_check_linux/bin/main_process.py[line:60] - INFO: 图像分类耗时    ：7.465s
+2019-11-12 11:55:44,571 - E:/code-Python/picture_check_linux/bin/main_process.py[line:79] - INFO: 预测结果保存耗时：0.031s
+2019-11-12 11:55:44,571 - E:/code-Python/picture_check_linux/bin/main_process.py[line:80] - INFO: 预测数据保存地址：../data/prediction_result_20191112.txt
+2019-11-12 11:55:44,572 - E:/code-Python/picture_check_linux/bin/main_process.py[line:81] - INFO: 处理总耗时      ：8.233s
+2019-11-12 14:09:36,293 - E:/code-Python/picture_check_linux/bin/main_process.py[line:85] - INFO: -*- 程序运行开始 -*-
+2019-11-12 14:09:36,293 - E:/code-Python/picture_check_linux/bin/main_process.py[line:91] - INFO: ['E:/code-Python/picture_check_linux/bin/main_process.py', '../data/sql.txt']
+2019-11-12 14:09:36,293 - E:/code-Python/picture_check_linux/bin/main_process.py[line:37] - INFO: -*-main_process-*-
+2019-11-12 14:09:36,293 - E:\code-Python\picture_check_linux\lib\mysql_process.py[line:87] - INFO: -*-mysql_process-*-
+2019-11-12 14:09:37,026 - E:\code-Python\picture_check_linux\lib\mysql_process.py[line:97] - INFO: sql提取的url文件已保存至： ../data/url_list_20191112.csv
+2019-11-12 14:09:37,026 - E:/code-Python/picture_check_linux/bin/main_process.py[line:43] - INFO: sql提取数据耗时：0.734s
+2019-11-12 14:09:37,027 - E:\code-Python\picture_check_linux\lib\url_download_picture.py[line:51] - INFO: -*-url_download_picture_batch-*-
+2019-11-12 14:09:37,042 - E:\code-Python\picture_check_linux\lib\url_download_picture.py[line:87] - INFO: url下载完毕，图像已保存至：../data/picture, 下载总耗时： 0.0010025501251220703s
+2019-11-12 14:09:37,043 - E:/code-Python/picture_check_linux/bin/main_process.py[line:51] - INFO: 图像下载耗时：0.017s
+2019-11-12 14:09:37,043 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:109] - INFO: -*-model_prediction-*-
+2019-11-12 14:09:44,461 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:73] - INFO: 预测的图像的特征及预测数据已追加至： ../data/feature_labeled.csv 文件
+2019-11-12 14:09:44,461 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:175] - INFO: 预测图像总数：10个，预测总耗时：7.417182683944702s
+2019-11-12 14:09:44,462 - E:/code-Python/picture_check_linux/bin/main_process.py[line:60] - INFO: 图像分类耗时：7.419s
+2019-11-12 14:09:44,476 - E:/code-Python/picture_check_linux/bin/main_process.py[line:79] - INFO: 预测结果保存耗时：0.014s
+2019-11-12 14:09:44,476 - E:/code-Python/picture_check_linux/bin/main_process.py[line:80] - INFO: 预测数据保存地址：../data/prediction_result_20191112.txt
+2019-11-12 14:09:44,476 - E:/code-Python/picture_check_linux/bin/main_process.py[line:81] - INFO: 程序总耗时：8.183s
+2019-11-12 14:23:20,573 - E:/code-Python/picture_check_linux/bin/main_process.py[line:85] - INFO: -*- 程序运行开始 -*-
+2019-11-12 14:23:20,573 - E:/code-Python/picture_check_linux/bin/main_process.py[line:91] - INFO: ['E:/code-Python/picture_check_linux/bin/main_process.py']
+2019-11-12 14:23:20,573 - E:/code-Python/picture_check_linux/bin/main_process.py[line:37] - INFO: -*-main_process-*-
+2019-11-12 14:23:20,573 - E:\code-Python\picture_check_linux\lib\mysql_process.py[line:87] - INFO: -*-mysql_process-*-
+2019-11-12 14:23:21,322 - E:\code-Python\picture_check_linux\lib\mysql_process.py[line:97] - INFO: sql提取的url文件已保存至： ../data/url_list_20191112.csv
+2019-11-12 14:23:21,322 - E:/code-Python/picture_check_linux/bin/main_process.py[line:43] - INFO: sql提取数据耗时：0.749s
+2019-11-12 14:23:21,323 - E:\code-Python\picture_check_linux\lib\url_download_picture.py[line:51] - INFO: -*-url_download_picture_batch-*-
+2019-11-12 14:23:32,132 - E:\code-Python\picture_check_linux\lib\url_download_picture.py[line:83] - INFO: 图像已下载50/51个, 下载已耗时: 10.793663740158081s
+2019-11-12 14:23:41,247 - E:\code-Python\picture_check_linux\lib\url_download_picture.py[line:87] - INFO: url下载完毕，图像已保存至：../data/picture, 下载总耗时： 19.908379077911377s
+2019-11-12 14:23:41,247 - E:/code-Python/picture_check_linux/bin/main_process.py[line:51] - INFO: 图像下载耗时：19.924s
+2019-11-12 14:23:41,247 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:109] - INFO: -*-model_prediction-*-
+2019-11-12 14:24:22,778 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:73] - INFO: 预测的图像的特征及预测数据已追加至： ../data/feature_labeled.csv 文件
+2019-11-12 14:24:22,778 - E:\code-Python\picture_check_linux\bin\model_prediction.py[line:175] - INFO: 预测图像总数：51个，预测总耗时：41.53054761886597s
+2019-11-12 14:24:22,779 - E:/code-Python/picture_check_linux/bin/main_process.py[line:60] - INFO: 图像分类耗时：41.532s
+2019-11-12 14:24:22,792 - E:/code-Python/picture_check_linux/bin/main_process.py[line:79] - INFO: 预测结果保存耗时：0.013s
+2019-11-12 14:24:22,792 - E:/code-Python/picture_check_linux/bin/main_process.py[line:80] - INFO: 预测数据保存地址：../data/prediction_result_20191112.txt
+2019-11-12 14:24:22,792 - E:/code-Python/picture_check_linux/bin/main_process.py[line:81] - INFO: 程序总耗时：62.219s
+2019-11-12 14:46:24,629 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:51] - INFO: -*-url_download_picture_batch-*-
+2019-11-12 14:46:24,644 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:83] - INFO: 图像已下载50/1500个, 下载已耗时: 0.0010030269622802734s
+2019-11-12 14:47:03,064 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:83] - INFO: 图像已下载100/1500个, 下载已耗时: 38.420711040496826s
+2019-11-12 14:47:46,212 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:83] - INFO: 图像已下载150/1500个, 下载已耗时: 81.56937456130981s
+2019-11-12 14:49:46,435 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:51] - INFO: -*-url_download_picture_batch-*-
+2019-11-12 14:49:46,455 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载50/1500个, 下载已耗时: 0.0015037059783935547s
+2019-11-12 14:49:46,456 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载100/1500个, 下载已耗时: 0.002506256103515625s
+2019-11-12 14:49:46,457 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载150/1500个, 下载已耗时: 0.004011392593383789s
+2019-11-12 14:49:47,129 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载200/1500个, 下载已耗时: 0.6752979755401611s
+2019-11-12 14:49:56,500 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载250/1500个, 下载已耗时: 10.046881198883057s
+2019-11-12 14:50:07,943 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载300/1500个, 下载已耗时: 21.489124536514282s
+2019-11-12 14:50:19,883 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载350/1500个, 下载已耗时: 33.429142236709595s
+2019-11-12 14:50:31,169 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载400/1500个, 下载已耗时: 44.71571898460388s
+2019-11-12 14:51:28,153 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载450/1500个, 下载已耗时: 101.69943428039551s
+2019-11-12 14:51:59,287 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载500/1500个, 下载已耗时: 132.83322477340698s
+2019-11-12 14:52:33,274 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载550/1500个, 下载已耗时: 166.8204641342163s
+2019-11-12 14:53:39,375 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载600/1500个, 下载已耗时: 232.92173647880554s
+2019-11-12 14:53:48,294 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载650/1500个, 下载已耗时: 241.84057807922363s
+2019-11-12 14:53:53,077 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载700/1500个, 下载已耗时: 246.62360310554504s
+2019-11-12 14:54:08,176 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载750/1500个, 下载已耗时: 261.7228193283081s
+2019-11-12 14:54:18,622 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载800/1500个, 下载已耗时: 272.1682872772217s
+2019-11-12 14:54:29,565 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载850/1500个, 下载已耗时: 283.11189126968384s
+2019-11-12 14:54:39,518 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载900/1500个, 下载已耗时: 293.0645959377289s
+2019-11-12 14:54:50,481 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载950/1500个, 下载已耗时: 304.02765226364136s
+2019-11-12 14:55:01,340 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1000/1500个, 下载已耗时: 314.8863389492035s
+2019-11-12 14:55:12,735 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1050/1500个, 下载已耗时: 326.28177762031555s
+2019-11-12 14:55:32,222 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1100/1500个, 下载已耗时: 345.7683207988739s
+2019-11-12 14:56:33,393 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1150/1500个, 下载已耗时: 406.93930315971375s
+2019-11-12 14:57:02,744 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1200/1500个, 下载已耗时: 436.29043650627136s
+2019-11-12 14:57:22,953 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1250/1500个, 下载已耗时: 456.4994399547577s
+2019-11-12 14:57:43,816 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1300/1500个, 下载已耗时: 477.3621850013733s
+2019-11-12 14:58:23,263 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1350/1500个, 下载已耗时: 516.8091123104095s
+2019-11-12 14:58:38,512 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1400/1500个, 下载已耗时: 532.0586087703705s
+2019-11-12 14:58:58,572 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1450/1500个, 下载已耗时: 552.1188185214996s
+2019-11-12 14:59:10,659 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:87] - INFO: 图像已下载1500/1500个, 下载已耗时: 564.2054440975189s
+2019-11-12 14:59:10,659 - E:/code-Python/yjp/picture_check/lib/url_download_picture.py[line:91] - INFO: url下载完毕，图像已保存至：../data/picture, 下载总耗时： 564.2059769630432s
+2019-11-12 16:13:57,592 - E:/code-Python/yjp/picture_check/bin/main_process.py[line:86] - INFO: -*- 程序运行开始 -*-
+2019-11-12 16:13:57,593 - E:/code-Python/yjp/picture_check/bin/main_process.py[line:92] - INFO: ['E:/code-Python/yjp/picture_check/bin/main_process.py']
+2019-11-12 16:13:57,593 - E:/code-Python/yjp/picture_check/bin/main_process.py[line:37] - INFO: -*-main_process-*-
+2019-11-12 16:13:57,593 - E:\code-Python\yjp\picture_check\bin\model_prediction.py[line:109] - INFO: -*-model_prediction-*-
+2019-11-12 16:14:29,767 - E:/code-Python/yjp/picture_check/bin/main_process.py[line:86] - INFO: -*- 程序运行开始 -*-
+2019-11-12 16:14:29,767 - E:/code-Python/yjp/picture_check/bin/main_process.py[line:92] - INFO: ['E:/code-Python/yjp/picture_check/bin/main_process.py']
+2019-11-12 16:14:29,767 - E:/code-Python/yjp/picture_check/bin/main_process.py[line:37] - INFO: -*-main_process-*-
+2019-11-12 16:14:29,767 - E:\code-Python\yjp\picture_check\bin\model_prediction.py[line:109] - INFO: -*-model_prediction-*-
+2019-11-12 16:50:35,305 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:109] - INFO: -*-model_prediction-*-
+2019-11-12 16:56:05,380 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:109] - INFO: -*-model_prediction-*-
+2019-11-12 16:56:55,820 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:175] - INFO: 已预测图像数目：50/1479
+2019-11-12 16:57:42,588 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:175] - INFO: 已预测图像数目：100/1479
+2019-11-12 16:58:29,975 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:175] - INFO: 已预测图像数目：150/1479
+2019-11-12 16:58:54,479 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:175] - INFO: 已预测图像数目：200/1479
+2019-11-12 16:59:40,774 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:175] - INFO: 已预测图像数目：250/1479
+2019-11-12 17:00:18,817 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:109] - INFO: -*-model_prediction-*-
+2019-11-12 17:01:09,636 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：50/1479, 预测图像分类已耗时：50.81856179237366s
+2019-11-12 17:01:56,887 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：100/1479, 预测图像分类已耗时：98.06961250305176s
+2019-11-12 17:02:45,709 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：150/1479, 预测图像分类已耗时：146.8914279937744s
+2019-11-12 17:03:10,683 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：200/1479, 预测图像分类已耗时：171.86533093452454s
+2019-11-12 17:03:56,085 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：250/1479, 预测图像分类已耗时：217.26799845695496s
+2019-11-12 17:04:50,624 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：300/1479, 预测图像分类已耗时：271.8074495792389s
+2019-11-12 17:05:34,826 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：350/1479, 预测图像分类已耗时：316.0094175338745s
+2019-11-12 17:06:17,946 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：400/1479, 预测图像分类已耗时：359.1284911632538s
+2019-11-12 17:07:21,198 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：450/1479, 预测图像分类已耗时：422.3806266784668s
+2019-11-12 17:08:13,451 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：500/1479, 预测图像分类已耗时：474.63396978378296s
+2019-11-12 17:08:31,074 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：550/1479, 预测图像分类已耗时：492.2573447227478s
+2019-11-12 17:09:09,674 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：600/1479, 预测图像分类已耗时：530.8574593067169s
+2019-11-12 17:09:54,421 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：650/1479, 预测图像分类已耗时：575.6043436527252s
+2019-11-12 17:10:55,271 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：700/1479, 预测图像分类已耗时：636.4535689353943s
+2019-11-12 17:12:48,548 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：750/1479, 预测图像分类已耗时：749.730625629425s
+2019-11-12 17:15:10,088 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：800/1479, 预测图像分类已耗时：891.270791053772s
+2019-11-12 17:17:31,631 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：850/1479, 预测图像分类已耗时：1032.8139717578888s
+2019-11-12 17:19:35,365 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：900/1479, 预测图像分类已耗时：1156.5477936267853s
+2019-11-12 17:20:57,750 - E:/code-Python/yjp/picture_check/bin/model_prediction.py[line:176] - INFO: 已预测图像数目：950/1479, 预测图像分类已耗时：1238.9327766895294s

@@ -1,0 +1,36 @@
+﻿2019-11-11 17:26:28,659 - E:/code-Python/picture_check/bin/main_process.py[line:84] - INFO: ['E:/code-Python/picture_check/bin/main_process.py', '../data/sql.txt']
+2019-11-11 17:26:28,659 - E:/code-Python/picture_check/bin/main_process.py[line:30] - INFO: -*- 主程序运行开始 -*-
+2019-11-11 17:26:38,418 - E:/code-Python/picture_check/bin/main_process.py[line:36] - INFO: sql提取数据耗时 ：9.759s
+2019-11-11 17:26:39,628 - E:/code-Python/picture_check/bin/main_process.py[line:44] - INFO: 图像下载耗时    ：1.21s
+2019-11-11 17:26:47,409 - E:/code-Python/picture_check/bin/main_process.py[line:53] - INFO: 图像分类耗时    ：7.78s
+2019-11-11 17:26:47,417 - E:/code-Python/picture_check/bin/main_process.py[line:72] - INFO: 预测结果保存耗时：0.009s
+2019-11-11 17:26:47,417 - E:/code-Python/picture_check/bin/main_process.py[line:73] - INFO: 预测数据保存地址：../data/prediction_result_20191111.txt
+2019-11-11 17:26:47,417 - E:/code-Python/picture_check/bin/main_process.py[line:74] - INFO: 处理总耗时      ：18.758s
+2019-11-11 17:32:13,710 - E:/code-Python/picture_check/bin/main_process.py[line:79] - INFO: -*- 程序运行开始 -*-
+2019-11-11 17:32:13,710 - E:/code-Python/picture_check/bin/main_process.py[line:85] - INFO: ['E:/code-Python/picture_check/bin/main_process.py', '../data/sql.txt']
+2019-11-11 17:32:13,710 - E:/code-Python/picture_check/bin/main_process.py[line:101] - INFO: 参数初始化完成！
+2019-11-11 17:32:13,711 - E:/code-Python/picture_check/bin/main_process.py[line:30] - INFO: main_process主程序运行开始！
+2019-11-11 17:32:17,438 - E:/code-Python/picture_check/bin/main_process.py[line:36] - INFO: sql提取数据耗时 ：3.728s
+2019-11-11 17:32:18,812 - E:/code-Python/picture_check/bin/main_process.py[line:44] - INFO: 图像下载耗时    ：1.374s
+2019-11-11 17:32:26,580 - E:/code-Python/picture_check/bin/main_process.py[line:53] - INFO: 图像分类耗时    ：7.768s
+2019-11-11 17:32:26,589 - E:/code-Python/picture_check/bin/main_process.py[line:72] - INFO: 预测结果保存耗时：0.009s
+2019-11-11 17:32:26,589 - E:/code-Python/picture_check/bin/main_process.py[line:73] - INFO: 预测数据保存地址：../data/prediction_result_20191111.txt
+2019-11-11 17:32:26,589 - E:/code-Python/picture_check/bin/main_process.py[line:74] - INFO: 处理总耗时      ：12.878s
+2019-11-11 17:33:05,833 - E:/code-Python/picture_check/bin/main_process.py[line:79] - INFO: -*- 程序运行开始 -*-
+2019-11-11 17:33:05,833 - E:/code-Python/picture_check/bin/main_process.py[line:85] - INFO: ['E:/code-Python/picture_check/bin/main_process.py']
+2019-11-11 17:33:05,833 - E:/code-Python/picture_check/bin/main_process.py[line:94] - INFO: The arguments you have inputed was wrong!
+2019-11-11 17:33:05,833 - E:/code-Python/picture_check/bin/main_process.py[line:98] - INFO: The arguments you have inputed was wrong!
+2019-11-11 17:34:33,561 - E:/code-Python/picture_check/bin/main_process.py[line:79] - INFO: -*- 程序运行开始 -*-
+2019-11-11 17:34:33,561 - E:/code-Python/picture_check/bin/main_process.py[line:85] - INFO: ['E:/code-Python/picture_check/bin/main_process.py']
+2019-11-11 17:34:33,561 - E:/code-Python/picture_check/bin/main_process.py[line:94] - INFO: The arguments you have inputed was wrong!
+2019-11-11 17:34:33,561 - E:/code-Python/picture_check/bin/main_process.py[line:98] - INFO: The arguments you have inputed was wrong!
+2019-11-11 17:34:52,878 - E:/code-Python/picture_check/bin/main_process.py[line:79] - INFO: -*- 程序运行开始 -*-
+2019-11-11 17:34:52,878 - E:/code-Python/picture_check/bin/main_process.py[line:85] - INFO: ['E:/code-Python/picture_check/bin/main_process.py', '../data/sql.txt']
+2019-11-11 17:34:52,878 - E:/code-Python/picture_check/bin/main_process.py[line:101] - INFO: 参数初始化完成！
+2019-11-11 17:34:52,878 - E:/code-Python/picture_check/bin/main_process.py[line:30] - INFO: main_process主程序运行开始！
+2019-11-11 17:34:56,649 - E:/code-Python/picture_check/bin/main_process.py[line:36] - INFO: sql提取数据耗时 ：3.771s
+2019-11-11 17:34:57,903 - E:/code-Python/picture_check/bin/main_process.py[line:44] - INFO: 图像下载耗时    ：1.254s
+2019-11-11 17:35:05,804 - E:/code-Python/picture_check/bin/main_process.py[line:53] - INFO: 图像分类耗时    ：7.9s
+2019-11-11 17:35:05,812 - E:/code-Python/picture_check/bin/main_process.py[line:72] - INFO: 预测结果保存耗时：0.009s
+2019-11-11 17:35:05,812 - E:/code-Python/picture_check/bin/main_process.py[line:73] - INFO: 预测数据保存地址：../data/prediction_result_20191111.txt
+2019-11-11 17:35:05,812 - E:/code-Python/picture_check/bin/main_process.py[line:74] - INFO: 处理总耗时      ：12.934s
